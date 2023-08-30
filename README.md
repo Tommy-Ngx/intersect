@@ -11,3 +11,8 @@ https://docs.google.com/document/d/1VAZWujC6VBXOdVleEnRfYjryzQltxw3mzXjUzLnpyjE/
 
 Introduction to Machine Learning using Python
 https://docs.google.com/document/d/1MjAOZgFv1LSXr2iDyDIab1qC2goFC-XB4Z3dkQg8IaE/edit
+
+
+# UTS unix shell
+https://docs.google.com/document/d/1jXERjjqgNGCWitKr4lpEELTz4bZ5He6hUoWee6wZMO8/edit
+
