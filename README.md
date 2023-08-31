@@ -23,3 +23,12 @@ Note:
 
 https://docs.google.com/document/d/1vjt4Rvbf07MQQkbak8dd6jo5ULLAJUIY3Pp0mrei1tQ/edit#heading=h.dljikkbuzyug
 
+Command:
++ echo $0    : show location
++ pwd        : print directory
++ ls -a      : list all include hidden files
++ ls Python/ : list out the folder named Python
++ ls Python/PYTHON101: list out all details inside the folder
++ 
+
+
