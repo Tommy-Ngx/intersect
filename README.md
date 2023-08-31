@@ -29,6 +29,16 @@ Command:
 + ls -a      : list all include hidden files
 + ls Python/ : list out the folder named Python
 + ls Python/PYTHON101: list out all details inside the folder
++ ls --help  : list all options of command
 + 
+
+
+
+
+
+
+
+
+
 
 
